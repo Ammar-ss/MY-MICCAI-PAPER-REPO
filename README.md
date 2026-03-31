@@ -1,5 +1,5 @@
 # MY-MICCAI-PAPER-REPO
-FETALFusion — MICCAI 2026 Submission
+FETALFusion for MICCAI 2026 Submission
 
 This repository contains the full training and evaluation code for FETALFusion.
 
