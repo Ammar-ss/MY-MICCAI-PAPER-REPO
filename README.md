@@ -9,4 +9,4 @@ Note on U-Mamba and VM-Net UNet: Due to Kaggle session time constraints, they we
 
 Hardware: All experiments run on a single NVIDIA T4 (16GB), consistent with the paper's computational efficiency claims.
 
-Datasets: HC-18 and PSFHS are publicly available. Download links and preprocessing steps are described in Section 3.1 of the paper..
+Datasets: HC-18 and PSFHS are publicly available. Download links and preprocessing steps are described in Section 3.1 of the paper....
